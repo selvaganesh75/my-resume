@@ -19,8 +19,6 @@
 
 *, *::before, *::after {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 html{
@@ -28,7 +26,7 @@ html{
 }
 
 body{
-  font-family: Inter, sans-serif;
+  font-family: var(--font-inter), sans-serif;
   background-color: var(--background);
   color: var(--text);
   min-height: 100vh;
