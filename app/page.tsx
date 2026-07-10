@@ -1,20 +1,41 @@
 import { AppLayout } from "@/components/layout/app-layout";
+ 
 import { Hero } from "@/components/sections/hero/hero";
-import { ProjectCard } from "@/components/widgets/project-card";
-import { SectionHeader } from "@/components/widgets/section-header";
-import { projects } from "@/data/projects";
+ 
+// import { FeaturedProjects } from "@/components/sections/home/featured-projects";
+ 
+import { SkillsSection } from "@/components/sections/home/skills-section";
+ 
+// import { ExperienceSection } from "@/components/sections/home/experience-section";
+ 
+import { GithubSection } from "@/components/sections/home/github-section";
+ 
+import { CertificationsSection } from "@/components/sections/home/certifications-section";
+ 
+import { ContactSection } from "@/components/sections/home/contact-section";
+ 
+import { LatestBlogs } from "@/components/sections/home/latest-blogs";
+import { FeaturedProjects } from "@/components/sections/home/featured-projects";
 
-
-
-export default function Home() {
+ 
+export default function HomePage() {
   return (
     <AppLayout>
       <Hero />
-      <section className="mt-12">
-        <SectionHeader title="Featured Projects" subtitle="A few highlights from my professional work." href="/projects"></SectionHeader>
-        <ProjectCard project={projects[0]} />
-      </section>
+ 
+      <FeaturedProjects />
+ 
+      <SkillsSection />
+ 
+      {/* <ExperienceSection /> */}
+ 
+      <GithubSection />
+ 
+      <CertificationsSection />
+ 
+      <LatestBlogs />
+ 
+      <ContactSection />
     </AppLayout>
-
   );
 }
