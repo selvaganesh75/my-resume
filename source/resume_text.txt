@@ -1,0 +1,99 @@
+﻿Selvaganesh
+Staff Engineer
+Professional Summary
+Accomplished Architect offering 7 years of extensive experience UI Development, Analysis, User Interface development of client/Server Web Applications, Banking Applications, Multimedia and Airline applications. Expert in designing high-performance, secure, and scalable web applications with exposure in architecture, design, development, and maintenance key components of web applications, integrating 3rd-party solutions and system deployment, OOP, and design patterns.
+Currently working on a Admin UI/client project for a Real Estate, serving as a Senior developer, involved in designing and developing web components and libraries using React and JavaScript.
+Education
+Bachelor of Engineering, Electronics and Communications, Anna University, Jayaraj Annapackiam college of engineering. Nazareth, TamilNadu.
+Skill Set
+Areas of competencies includes high-performance web architectures, object-oriented design/patterns, and microservices architecture. 
+Programming Languages
+JavaScript, Nodejs, Mongo dB, PostgreSQL
+Web Technologies
+CSS3, jQuery, Web Forms, React, Nextjs, HTML5, AJAX, Web API, Bootstrap, Tailwind
+APIs and middleware
+REST, JSON, SOAP, Web Services
+Database
+MongoDB, Redis, SQL
+Tools and platforms
+Jenkins, webpack, Visual Studio code, Git, SharePoint, Slack
+Honors and Awards
+Emerging Player Award
+On The Spot Award
+Recent Projects
+Project name 
+Full Spectrum Portal
+Client
+Johnson & Johnson (J&J), Bristol Myers Squibb (BMS)
+Duration
+Aug 2024 â€“ Apr 2026
+Description
+Architected and delivered a multiclient lab scientist portal supporting pharmaceutical organizations.
+Designed intuitive navigation for lab instrument management, lab requests, and work order workflows.
+Implemented features allowing scientists to create work orders, register instruments, and associate equipment with lab activities.
+Enhanced lab operational efficiency, visibility, and compliance by centralizing instrument and request management.
+Supported configurable workflows to meet diverse clientspecific laboratory processes.
+Technology Stack
+React, Azure, Git, Nodejs, Redux, GitHub-copilot, builder.io, Nest.js
+Responsibilities
+Re-factored applications from scratch using latest UI technologies to provide better user experience and adhering to coding standards. 
+Translating designs and wireframes into high quality code
+Building reusable components for future use
+Creating customized UI for each client with common component
+Project name 
+Project Management Technology Portal
+Client
+Real Estate
+Duration
+Sep 2022 â€“ Mar 2024
+Description
+Project involved integrating all the web application forms using React and JavaScript. It has admin panel to show charts and CRUD operation based on user privileges. This application has micro frontend architecture. 
+Technology Stack
+React, Azure, Git, Nodejs, Redux, GitHub-copilot
+Responsibilities
+Re-factored applications from scratch using latest UI technologies to provide better user experience and adhering to coding standards. 
+Translating designs and wireframes into high quality code
+Building reusable components for future use
+Creating customized UI for each client with common component
+Project name 
+Revenue Assurance
+Client
+Telecom
+Duration
+Mar 2021 â€“ Jul 2022
+Description
+Project involved integrating all the web application forms using React and JavaScript. It has admin panel to show charts and CRUD operation based on user privileges. This application has micro frontend architecture. 
+Technology Stack
+React, Jenkins, Git, Nodejs, Redux
+Responsibilities
+Re-factored applications from scratch using latest UI technologies to provide better user experience and adhering to coding standards. 
+Translating designs and wireframes into high quality code
+Building reusable components for future use
+Project name
+Airlineâ€™s Admin Portal
+Client
+Airline provider in Singapore
+Duration
+Jul 2019 â€“ Feb 2021 
+Description
+Project involved providing a platform to enable operator submit data/forms using web-based solutions. It included working with client scrum team as a Senior Developer/Architect to provide technical solutions to enable current architecture and move the application seamlessly into Single page application.
+Technology Stack
+React, Jenkins, Git, Nodejs, Redux, Web API
+Responsibilities
+Translating designs and wireframes into high quality code 
+Participated in all phases of the application development. 
+Developing new user-facing features using React.js
+Project name
+Video-wall application
+Client
+Airline provider in Singapore
+Duration
+Jul 2019 â€“ Feb 2021 
+Description
+Project involved providing a platform to view flight/airport live information using web-based application. It included working with client scrum team as a Senior Developer/Architect to provide technical solutions to enable current architecture and move the application seamlessly into Single page application.
+Technology Stack
+React, Jenkins, Git, Nodejs, Redux, Web API
+Responsibilities
+Translating designs and wireframes into high quality code 
+Participated in all phases of the application development. 
+Developing new user-facing features using React.js
